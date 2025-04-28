@@ -1,4 +1,4 @@
-# Tarot GUI Application 🔮
+# Tarot GUI Application 🔮 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)
 ![Tarot GUI Screenshot](images/screenshot.png)
 
 An intuitive desktop tarot reading application built with Python.  
