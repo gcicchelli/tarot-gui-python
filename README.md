@@ -1,4 +1,5 @@
 # Tarot GUI Application 🔮
+![Tarot GUI Screenshot](images/screenshot.png)
 
 An intuitive desktop tarot reading application built with Python.  
 Designed to blend traditional divination with a modern, artistic user experience.
